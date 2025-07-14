@@ -9,7 +9,7 @@ This project is an educational application designed for **junior high school stu
  **Framework** : .NET Framework                          
  **GUI** : Windows Forms (WinForms)                
  **Database** : SQLite                                  
- **Database Access**:System.Data.SQLite                       
+ **Database Access** : System.Data.SQLite                       
  **IDE**  : Visual Studio 2022                       
  **DB Management**: DB Browser for SQLite                    
 
