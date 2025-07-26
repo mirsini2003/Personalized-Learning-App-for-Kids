@@ -38,5 +38,5 @@ This project is an educational application designed for **junior high school stu
 
 ## Contact  
 **Email:** mirsini.kafetsi@gmail.com  
-**LinkedIn:** linkedin.com/in/myrsini-kafetsi
+**LinkedIn:** [Myrsini Kafetsi](linkedin.com/in/myrsini-kafetsi)
 
